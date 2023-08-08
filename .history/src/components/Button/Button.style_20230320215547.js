@@ -1,0 +1,17 @@
+/* eslint-disable prettier/prettier */
+import {StyleSheet} from 'react-native';
+
+export default StyleSheet.create({
+  container: {
+    padding: 8,
+    margin: 10,
+    backgroundColor: '#e0e0e0',
+    borderRadius: 5,
+    alignContent: 'center',
+  },
+  title: {
+    fontWeight: 'bold',
+    fontSize: 17,
+    colorr: 'white',
+  },
+});
